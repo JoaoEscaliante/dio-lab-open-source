@@ -45,14 +45,14 @@
     
 ## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"> Convenção de Commits 
 
-| Tipo de Commit | Descrição                                                            | Exemplo
-| ---------------|----------------------------------------------------------------------|-----------
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | `feat: add USENAME.md profile`
-| `fix`          | Corrige um bug ou problema no projeto.                               | `fix: fixed issue fix#IssueNumber`
-| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.| `doc: altered section SECTIONNAME`
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
-| `test`         | Adiciona ou modifica testes no projeto.                              | `test: testing FUNCIONALITYNAME`
+| Tipo de Commit | Descrição                                                            | 
+| ---------------|----------------------------------------------------------------------|
+| `feat`         | Adiciona uma nova funcionalidade ao projeto.                         | 
+| `fix`          | Corrige um bug ou problema no projeto.                               | 
+| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.| 
+| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | 
+| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         |
+| `test`         | Adiciona ou modifica testes no projeto.                              |
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30px" height="30px" style="max-width: 100%;"> Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
